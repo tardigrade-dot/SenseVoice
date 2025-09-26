@@ -1,3 +1,6 @@
+在原来的基础上添加了可以输入文本target_txt进行对齐的功能.使用方法: [forced_aligner_example](https://colab.research.google.com/github/tardigrade-dot/SenseVoice/blob/main/forced_aligner_example.ipynb)
+
+
 ([简体中文](./README_zh.md)|English|[日本語](./README_ja.md))
 
 
